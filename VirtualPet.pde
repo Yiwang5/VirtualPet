@@ -2,7 +2,7 @@
 void setup(){
   
 size (400,400);
-
+strokeWeight(8);
 
 }
 void draw(){

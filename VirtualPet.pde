@@ -16,6 +16,8 @@ ellipse (200,225, 100, 120);
 fill (0,0,0);
 triangle (200,225, 175,200,225, 200 );
 point (200, 300);
+curveVertex(10,10);
+curveVertex(10,10);
 
 }
 
